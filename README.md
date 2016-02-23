@@ -1,6 +1,6 @@
 # codeigniter-enotas 0.0.1
 
-**Atenção: esta biblioteca está em desenvolvimento e pode ser alterada a qualquer momento ***
+**Atenção: esta biblioteca está em desenvolvimento e pode ser alterada a qualquer momento **
 
 Uma simples biblioteca para integrar aplicações em CodeIgniter com a API do E-notas Gateway
 
@@ -39,5 +39,6 @@ $nf = array(
 // Gerar nota fiscal
 $this->nota_fiscal->generate_nf($nf);
 ```
+Para mais informações, leia a documentação do E-notas:
 
 [Documentação E-notas Gateway](http://portal.enotasgw.com.br/knowledge-base/empresa-nota-fiscal-eletronica)
